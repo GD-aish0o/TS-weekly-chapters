@@ -1,0 +1,13 @@
+{
+  "name": "13th",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type":"module",
+  "bin":"IRL-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aqsa Qazi (GD-aish0o)",
+  "license": "ISC",
+  "description": ""
+}
